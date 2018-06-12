@@ -14,3 +14,4 @@ Feature: ATA calc test
       |        3 |         4 | "Multiply" |     12 |
       |        2 |         4 | "Add"      |      6 |
       |        2 |         4 | "Multiply" |      6 |
+      |        3 |         4 | "Add"      |      7 |
